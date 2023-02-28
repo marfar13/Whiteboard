@@ -1,0 +1,1 @@
+This is a whiteboard where you can draw with a brush, you can create squares, rectangles, circles and triangles. You can also choose from different colors: white, black, red, green or you can use any other color.
